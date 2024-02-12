@@ -16,6 +16,6 @@ int main(void)
 	scanf("%f", &r);
 	//area = PI*r*r;
 	area = area(r);
-	printf("\nArea = %.2f\n", area); //print the area with two decimal places
+	printf("\nArea = %.2f square units\n", area); //print the area with two decimal places
 	return (0);
 }
