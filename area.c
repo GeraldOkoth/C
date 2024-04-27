@@ -1,3 +1,4 @@
+//Program to compute the are of circle.
 #include <stdio.h>
 #define PI 3.1415
 #define area(radius) (PI*(r)*(r))
@@ -9,8 +10,7 @@
 int main(void)
 {
 	/*input can be an integer or a float*/
-	float r;
-	float area;
+	float r, area;
 
 	printf("Enter the radius: ");
 	scanf("%f", &r);
