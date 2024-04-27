@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <string.h>
 
@@ -35,6 +36,7 @@ int main(void)
         printf("\nLogin successful!\n");
         printf("Please enter your marks: ");
         scanf("%d", &marks);
+        printf("\n");
 
         if (marks < 40)
         {
@@ -48,7 +50,7 @@ int main(void)
         {
             printf("Good!\n");
         }
-        else if (marks >= 70)
+        else if (marks >= 70 && marks < 100)
         {
             printf("Excellent!\n");
         }
