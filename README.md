@@ -1,4 +1,5 @@
 
-## **Introduction to C programming language.**
+## ** C programming basics.**
 
-This is a complete introduction to C programming language. Implementing basic programs.
+
+### A complete introduction to C programming language. Implementing basic programs.
